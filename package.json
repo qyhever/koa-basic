@@ -1,15 +1,13 @@
 {
-  "name": "koa-demos",
+  "name": "koa-study",
   "version": "1.0.0",
-  "description": "a collection of simple demos of Koa",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Koa",
-    "Node"
-  ],
-  "author": "Ruan Yifeng",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "fs.promised": "^3.0.0",
